@@ -28,11 +28,18 @@
     padding-top: 2.5%;
 }
 
-.row h2 {
+.boxdesignsub {
+    background-color: #f2f5f7;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 0px;
+}
+
+.boxdesign h2 {
     text-align: center;
 }
 
-.row h3 {
+.boxdesign h3 {
     text-align: center;
 }
 
@@ -52,6 +59,10 @@
     float:right;
     width:50%;
     padding:2%;
+}
+
+.topbox{
+    margin-top:5%;
 }
 
 @media (max-width: 991.98px) {
