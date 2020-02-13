@@ -1,0 +1,70 @@
+.bodycolor {
+    background-color: #777b7e;
+}
+
+.navbar-brand {
+    text-align: center;
+    background-color: #89bdd6;
+    padding: 3%;
+    margin-left: 40%;
+  }
+
+.navbar {
+    padding:0px;
+}
+
+.navbar-nav li {
+    margin-right: 10px;
+}
+
+.row {
+    padding: 2.5%;
+}
+
+.boxdesign {
+    background-color: #f2f5f7;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    padding-top: 2.5%;
+}
+
+.row h2 {
+    text-align: center;
+}
+
+.row h3 {
+    text-align: center;
+}
+
+.inlineimg {
+    float: left;
+    width:45%;
+    margin-right: 5%;
+}
+
+.gridimgfl {
+    float:left;
+    width:50%;
+    padding:2%;
+}
+
+.gridimgfr {
+    float:right;
+    width:50%;
+    padding:2%;
+}
+
+@media (max-width: 991.98px) {
+    
+.gridimgfl {
+    float:left;
+    width:25%;
+    padding:2%;
+}
+
+.gridimgfr {
+    float:right;
+    width:25%;
+    padding:2%;
+}
+ }
