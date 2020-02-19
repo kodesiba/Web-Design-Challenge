@@ -87,6 +87,10 @@
     background-color: #292b2c;
 }
 
+.activeimg {
+    background:#292b2c;
+}
+
 @media (max-width: 991.98px) {
     
 .gridimgfl {
